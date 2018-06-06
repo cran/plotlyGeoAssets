@@ -1,0 +1,11 @@
+410c7eab23f70c1220ff72c4b332dd45 *DESCRIPTION
+dcd388f52af8e3cb24839540e1b67823 *LICENSE
+f0c3e47827993ee682b97d79cfbabe9b *NAMESPACE
+cfdf1c72a6f7f389253b1fd33884028b *R/geo-assets.R
+261a1c484eaefc4b4734d578b4459b93 *R/sysdata.rda
+0470c698459834385f83bf2ecda0a3df *README.md
+107f46e5f27cb51f6fbd46439e60af38 *inst/lib/plotly-geo-assets.js
+f23cdffd3bf77db913b372144fc2e2db *man/geo_assets.Rd
+de0a0f7b25b96e911cde1ebd56effdf2 *tests/testthat.R
+7d06863e10f29f92b00cb00e6db80140 *tests/testthat/test-render.R
+46ebb77786263955273651124dbb537d *tools/plotlyjs.R
